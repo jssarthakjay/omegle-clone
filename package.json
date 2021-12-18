@@ -1,0 +1,30 @@
+{
+  "name": "webrtc-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.5"
+  },
+  "dependencies": {
+    "firebase": "^8.2.10"
+  },
+  "description": "Build a 1-to-1 video chat feature with WebRTC, Firestore, and JavaScript.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jssarthakjay/omegle-clone.git"
+  },
+  "keywords": [
+    "omegle-clone"
+  ],
+  "author": "js",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jssarthakjay/omegle-clone/issues"
+  },
+  "homepage": "https://github.com/jssarthakjay/omegle-clone#readme"
+}
